@@ -1,0 +1,15 @@
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\bin\Debug\net8.0\ConLeaderBoard.exe
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\bin\Debug\net8.0\ConLeaderBoard.deps.json
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\bin\Debug\net8.0\ConLeaderBoard.runtimeconfig.json
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\bin\Debug\net8.0\ConLeaderBoard.dll
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\bin\Debug\net8.0\ConLeaderBoard.pdb
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\obj\Debug\net8.0\ConLeaderBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\obj\Debug\net8.0\ConLeaderBoard.AssemblyInfoInputs.cache
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\obj\Debug\net8.0\ConLeaderBoard.AssemblyInfo.cs
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\obj\Debug\net8.0\ConLeaderBoard.csproj.CoreCompileInputs.cache
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\obj\Debug\net8.0\ConLeaderBoard.sourcelink.json
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\obj\Debug\net8.0\ConLeaderBoard.dll
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\obj\Debug\net8.0\refint\ConLeaderBoard.dll
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\obj\Debug\net8.0\ConLeaderBoard.pdb
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\obj\Debug\net8.0\ConLeaderBoard.genruntimeconfig.cache
+C:\Users\greguss.illes\Source\Repos\ConLeaderBoard\ConLeaderBoard\obj\Debug\net8.0\ref\ConLeaderBoard.dll
